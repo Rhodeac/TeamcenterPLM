@@ -2,6 +2,7 @@
 # PLM-Common.ps1
 # Dot-source this file at the top of every PLM script:
 #   . "$PSScriptRoot\PLM-Common.ps1"
+# Created by:  Andrew C. Rhodes
 # ============================================================
 
 # ── Paths ────────────────────────────────────────────────────
