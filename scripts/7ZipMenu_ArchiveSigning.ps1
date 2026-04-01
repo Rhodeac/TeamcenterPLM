@@ -2,7 +2,7 @@
 #  ARCHIVE SIGNING & VERIFICATION  —  7-ZIP ULTIMATE MENU ADD-ON
 #  Certificate-based tamper detection for compressed archives
 #  Version 1.0  |  Compatible with 7-Zip Ultimate Menu v2.2+
-#
+#  Created by Andrew C. Rhodes 
 #  HOW IT WORKS:
 #   1. After creating an archive, a SHA-256 hash of the archive
 #      file is computed and then digitally signed using an RSA
